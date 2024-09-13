@@ -1,6 +1,14 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+meu nome é Samuel Leme dos Santos
+<Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
 
-<!--
+@alurastartestudante
+
+Lembre-se: para adicionar emojis basta inserir o comando : e escolher o ícone de sua preferência!!--
 **Samuelleme2/Samuelleme2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
